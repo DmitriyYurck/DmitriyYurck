@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dmitriy</h1>
+# Hello, my name is Dmitry.
+## 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriyyurck&label=Profile%20views&color=0e75b6&style=flat" alt="dmitriyyurck" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitriyyurck" alt="dmitriyyurck" /></a> </p>
