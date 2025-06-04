@@ -1,1 +1,2 @@
-![Ваши статистики GitHub](https://github-readme-stats.vercel.app/api?username=DmitriyYurck&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyYurck)](https://github.com/DmitriyYurck/github-readme-stats)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyYurck)](https://github.com/anuraghazra/github-readme-stats)
