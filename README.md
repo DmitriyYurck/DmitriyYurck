@@ -1,4 +1,4 @@
-
+I have my own startup GALAXY BRAIN!
  - I study neural networks and machine learning.
  - I do pet projects for myself
   ### 📊 GitHub Stats  
