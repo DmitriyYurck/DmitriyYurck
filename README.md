@@ -1,5 +1,5 @@
 I have my own startup GALAXY BRAIN!
- - I study neural networks and machine learning.
+ - I study neural networks and machine learning. 
  - I do pet projects for myself
   ### 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyYurck&cache_seconds=3600&v=3) 
