@@ -25,7 +25,7 @@
 
 ### Contact
 
-* **Email:** [dmitriyyurck@outlook.com](mailto:dmitriyyurck@outlook.com)
+* **Email:** [ceo@kaien-ai.online](mailto:ceo@kaien-ai.online)
 * **Hugging Face:** [@DmitriyYurckML](https://huggingface.co/DmitriyYurckML)
 * **GitHub:** [@DmitriyYurck](https://github.com/DmitriyYurck)
 
